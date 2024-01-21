@@ -21,7 +21,7 @@ Returns 200 OK and a Map of a character and the construction of this character i
 
 POST .../calculator
 
-```json
+```
   aaaabbbcccccc
 ```
 
