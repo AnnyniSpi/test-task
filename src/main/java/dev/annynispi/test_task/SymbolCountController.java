@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.Map;
 
 @RestController
-@RequestMapping("api/v1/calculator")
+@RequestMapping("/api/v1/calculator")
 public class SymbolCountController {
 
     private final SymbolCountService symbolCountService;
